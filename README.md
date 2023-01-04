@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the TypeScript version of the official [Intro to React](https://reactjs.org/tutorial/tutorial.html#what-are-we-building) tutorial with some cool CSS.
 
 ## Screenshots
 <img width="391" alt="screen_1" src="https://user-images.githubusercontent.com/37496018/210659273-8b522f29-2de5-4612-9524-297efa8188ac.png">
