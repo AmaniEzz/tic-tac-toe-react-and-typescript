@@ -4,15 +4,19 @@ This project is the TypeScript version of the official [Intro to React](https://
 ## Screenshots
 
 Intial state of the game
+
 <img width="391" alt="screen_1" src="https://user-images.githubusercontent.com/37496018/210659273-8b522f29-2de5-4612-9524-297efa8188ac.png">
 
 After 6 Moves player 'X' won
+
 <img width="464" alt="screen_2" src="https://user-images.githubusercontent.com/37496018/210659299-98c8a2b0-7dd1-43c5-8a50-61c342be3f8c.png">
 
 Go back to move 5 using the history buttons
+
 <img width="434" alt="screen_3" src="https://user-images.githubusercontent.com/37496018/210659319-37fb2e87-8ee9-4590-87be-b72498acee1d.png">
 
 Restart the game
+
 <img width="391" alt="screen_1" src="https://user-images.githubusercontent.com/37496018/210659273-8b522f29-2de5-4612-9524-297efa8188ac.png">
 
 
