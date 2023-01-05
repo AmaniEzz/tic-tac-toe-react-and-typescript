@@ -7,7 +7,7 @@ Intial state of the game
 
 <img width="391" alt="screen_1" src="https://user-images.githubusercontent.com/37496018/210659273-8b522f29-2de5-4612-9524-297efa8188ac.png">
 
-After 6 Moves player 'X' won
+After 7 moves player 'X' won
 
 <img width="464" alt="screen_2" src="https://user-images.githubusercontent.com/37496018/210659299-98c8a2b0-7dd1-43c5-8a50-61c342be3f8c.png">
 
