@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with React
 
 This project is the TypeScript version of the official [Intro to React](https://reactjs.org/tutorial/tutorial.html#what-are-we-building) tutorial with some cool CSS.
 
