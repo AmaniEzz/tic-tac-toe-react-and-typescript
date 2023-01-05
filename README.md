@@ -1,5 +1,4 @@
-# Getting Started with React
-
+# Tic Tac Toe Game With React and Typescript
 This project is the TypeScript version of the official [Intro to React](https://reactjs.org/tutorial/tutorial.html#what-are-we-building) tutorial with some cool CSS.
 
 ## Screenshots
